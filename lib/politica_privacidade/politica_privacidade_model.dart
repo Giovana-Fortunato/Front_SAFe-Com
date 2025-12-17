@@ -1,0 +1,23 @@
+import '/flutter_flow/flutter_flow_theme.dart';
+import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
+import 'dart:ui';
+import '/index.dart';
+import 'politica_privacidade_widget.dart' show PoliticaPrivacidadeWidget;
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:provider/provider.dart';
+
+class PoliticaPrivacidadeModel
+    extends FlutterFlowModel<PoliticaPrivacidadeWidget> {
+  ///  State fields for stateful widgets in this page.
+
+  // State field(s) for AceitoCondicoes widget.
+  bool? aceitoCondicoesValue;
+
+  @override
+  void initState(BuildContext context) {}
+
+  @override
+  void dispose() {}
+}
