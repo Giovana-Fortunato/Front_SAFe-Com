@@ -1,7 +1,4 @@
 # SAFe-Com
 
-A new Flutter project.
+Front-ed do projeto desenvolvido para a Feirinha Agroecológica da UESB pelos alunos do 4º semestre de Computação
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
